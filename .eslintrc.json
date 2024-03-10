@@ -3,6 +3,7 @@
     "standard",
     "plugin:react/recommended",
     "plugin:tailwindcss/recommended",
+    "next/core-web-vitals",
     "prettier"
   ],
 	"rules": {
